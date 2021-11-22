@@ -9,11 +9,11 @@
     </fieldPermissions>
     <loginIpRanges>
         <endAddress>83.0.0.0</endAddress>
-        <startAddress>83.0.0.250</startAddress>
+        <startAddress>83.0.0.255</startAddress>
     </loginIpRanges>
     <loginIpRanges>
         <endAddress>84.0.0.0</endAddress>
-        <startAddress>84.0.0.250</startAddress>
+        <startAddress>84.0.0.255</startAddress>
     </loginIpRanges>
     <loginIpRanges>
         <endAddress>85.0.0.0</endAddress>
